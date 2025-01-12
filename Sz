@@ -1,0 +1,3 @@
+getgenv().Poi = false
+
+if getgenv().Poi == true then game.Players.LocalPlayer:Kick("This feature is no longer free") end
